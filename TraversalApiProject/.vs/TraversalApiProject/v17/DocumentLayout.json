@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|c:\\users\\alp_t\\onedrive\\masa\u00FCst\u00FC\\projects\\traversalapiproject\\traversalapiproject\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|solutionrelative:traversalapiproject\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|c:\\users\\alp_t\\onedrive\\masa\u00FCst\u00FC\\projects\\traversalapiproject\\traversalapiproject\\dal\\context\\visitorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|solutionrelative:traversalapiproject\\dal\\context\\visitorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|c:\\users\\alp_t\\onedrive\\masa\u00FCst\u00FC\\projects\\traversalapiproject\\traversalapiproject\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|solutionrelative:traversalapiproject\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|c:\\users\\alp_t\\onedrive\\masa\u00FCst\u00FC\\projects\\traversalapiproject\\traversalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE7E3D4-3776-4466-8691-2AF73F46E659}|TraversalApiProject\\TraversalApiProject.csproj|solutionrelative:traversalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorContext.cs",
+              "DocumentMoniker": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\DAL\\Context\\VisitorContext.cs",
+              "RelativeDocumentMoniker": "TraversalApiProject\\DAL\\Context\\VisitorContext.cs",
+              "ToolTip": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\DAL\\Context\\VisitorContext.cs",
+              "RelativeToolTip": "TraversalApiProject\\DAL\\Context\\VisitorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:37:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\DAL\\Entities\\Visitor.cs",
+              "RelativeDocumentMoniker": "TraversalApiProject\\DAL\\Entities\\Visitor.cs",
+              "ToolTip": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\DAL\\Entities\\Visitor.cs",
+              "RelativeToolTip": "TraversalApiProject\\DAL\\Entities\\Visitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:16:58.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "TraversalApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\Program.cs",
+              "RelativeToolTip": "TraversalApiProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:59:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "TraversalApiProject\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\alp_t\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TraversalApiProject\\TraversalApiProject\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "TraversalApiProject\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:38:32.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
